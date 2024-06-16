@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/* Configuração de aparelhos de pé (portrait) */
+
+body{
+    background: url(../imagens/cev-portrait.jpg);
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
